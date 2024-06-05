@@ -483,6 +483,9 @@ main{
 
 
 /*footer*/
+.footer-section{
+    padding-top: 100px;
+}
 .footer-menu ul {
     margin: 0px;
     padding: 0px;
@@ -641,4 +644,37 @@ main{
         padding: .1rem;
     }    
 
+}
+.map{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-left: 200px;
+    width: 1700px;
+    height: 500px;
+}
+  
+.contacti{
+    padding-left: 200px;
+    margin-top: 20px;
+    color: black;
+}
+.frame{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-left: 50px;
+    color: black;
+}
+.frame a{
+    color: black;
+}
+.frameinframe{
+    padding-bottom: 30px;
+}
+h4, h2,small,a{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
 }
