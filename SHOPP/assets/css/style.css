@@ -48,8 +48,8 @@ header a{
     text-decoration: none;
 }
 .menu{
-    width: 95%;
-    max-width: 900px;
+    width: 100%;
+    max-width: 1300px;
     margin: 0 auto;
 }
 .logo-nav{
